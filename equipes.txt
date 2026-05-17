@@ -4,10 +4,10 @@ TEMA: RESTAURANTE JAPONÊS - KYOTO GARDEN
 ==================================================
 
 EQUIPE:
-- RM: [preencher]   NOME: [preencher]
-- RM: [preencher]   NOME: [preencher]
-- RM: [preencher]   NOME: [preencher]
-- RM: [preencher]   NOME: [preencher]
+Thiago Souza de Lima	RM568732
+Matheus Akira Aso	RM572830
+Guilherme Kooji	RM570541
+
 
 ==================================================
 LINK DO PROJETO HOSPEDADO (GitHub Pages):
