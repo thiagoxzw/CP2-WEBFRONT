@@ -1,0 +1,18 @@
+==================================================
+PROJETO CP2 - WEB FRONT-END
+TEMA: RESTAURANTE JAPONÊS - KYOTO GARDEN
+==================================================
+
+EQUIPE:
+- RM: [preencher]   NOME: [preencher]
+- RM: [preencher]   NOME: [preencher]
+- RM: [preencher]   NOME: [preencher]
+- RM: [preencher]   NOME: [preencher]
+
+==================================================
+LINK DO PROJETO HOSPEDADO (GitHub Pages):
+https://thiagoxzw.github.io/CP2-WEBFRONT/
+
+REPOSITÓRIO:
+https://github.com/thiagoxzw/CP2-WEBFRONT
+==================================================
